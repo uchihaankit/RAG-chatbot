@@ -20,3 +20,4 @@ llama_index
 langchain_chroma
 langchain_openai
 openai
+tf-keras
