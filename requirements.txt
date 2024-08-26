@@ -21,3 +21,4 @@ langchain_chroma
 langchain_openai
 openai
 tf-keras
+faiss-cpu
